@@ -34,16 +34,6 @@ Soy **artista visual** y **desarrolladora Full Stack en formación**. Mi backgro
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=too0oori&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=DC2626&icon_color=DC2626&text_color=C9D1D9)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=too0oori&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=DC2626&text_color=C9D1D9)
-
-</div>
-
 ## 🚀 Proyectos Destacados
 
 
